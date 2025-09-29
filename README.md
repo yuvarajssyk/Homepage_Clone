@@ -24,10 +24,6 @@ This project recreates the look and feel of Netflix’s official landing page wi
 
 ---
 
-## 📷 Screenshots
-> *(Add screenshots of your project UI here — for example `images/demo.png`)*  
-
----
 
 🔗 **Live Demo**: [Netflix Clone](https://yuvarajssyk.github.io/Homepage_Clone/)
 
